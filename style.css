@@ -1,0 +1,33 @@
+/* index sayfası css*/
+
+#information{
+    padding-top: 50px;
+}
+
+
+.icon-wrapper{
+    width: 3rem;
+    height: 3rem;
+} 
+
+/* contact sayfasi css*/
+
+.contact-btn{
+    width: 500px;
+
+}
+
+.icon-contact{
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    display: inline-flex;
+}
+
+
+
+
+
+
